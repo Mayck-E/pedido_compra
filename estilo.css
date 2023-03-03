@@ -1,0 +1,19 @@
+tr, th, td{
+    border: solid;            
+}
+
+body{
+    font-size: 1.5rem;  
+    border-collapse: collapse;
+    background-color: white;
+    border-radius: 2%;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+button, form{
+    font-size: 2rem;
+    border-radius: 5%;
+}
